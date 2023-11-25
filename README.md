@@ -1,5 +1,5 @@
 # Oto-Classify-Ear-Disease-Classification
-
+![Certificate](https://github.com/harshdew02/DL-approch-for-Ear-disease-diagnosis/blob/main/Intern%20Certificate.jpeg)
 Abstract:
 Oto-Classify is a deep learning-based project aimed at developing an efficient and accurate system for the classification of ear diseases. The project utilizes state-of-the-art deep learning techniques to automatically analyze ear images and accurately identify various types of ear diseases. This descriptive study provides an overview of the Oto-Classify project, including its objectives, methodology, dataset, model architecture, training process, and evaluation results. The study highlights the potential impact of Oto-Classify in improving early detection and diagnosis of ear diseases, leading to more effective and timely treatments.
 
